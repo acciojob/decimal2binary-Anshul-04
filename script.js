@@ -3,4 +3,4 @@ function decimalToBinary(decimal) {
 }
 
 
-module.exports = decimalToBinary();
+
