@@ -6,4 +6,4 @@ function decimalToBinary(decimal) {
   }
   return binary;
 }
-
+module.exports = decimalToBinary;
