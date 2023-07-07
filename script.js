@@ -1,13 +1,5 @@
-// function decimalToBinary(decimal) {
-//   let binary = "";
-//   while (decimal > 0) {
-//     binary = (decimal % 2) + binary;
-//     decimal = Math.floor(decimal / 2);
-//   }
-//   return binary;
-// }
-function decimalToBinary(decimal) {
-  return decimal.toString(2);
+function decimalToBinary(num) {
+  // Write your code here
 }
 
-module.exports = decimalToBinary;
+window.decimalToBinary = decimalToBinary;
